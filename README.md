@@ -98,10 +98,34 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ```
 
 ## Output:
-![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/a8cc2456-1573-4708-b556-2767c77471ee)
 
-![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/21ca4283-4f4f-4360-9bd8-ed6670801845)
+### PROFIT PREDICTION:
 
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/36e4aa06-efa7-46d0-8426-aa6a56f551e2)
+
+### COST FUNCTION:
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/adc4c075-a56a-43f0-8107-2bc8b200d627)
+
+### GRADIENT DESCENT:
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/2d4c143c-520b-4c10-8448-41252d9f35a2)
+
+### COST FUNCTION USING GRADIENT DESCENT:
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/9b366557-997d-4318-a6f9-b9b1e813cb91)
+
+### BEST FIT LINE (PROFIT PREDICTION):
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/23081571-0c7b-4256-86aa-efefff666358)
+
+### PROFIT PREDICTION FOR POPULATION OF 35000:
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/728dea11-88c0-4b1a-96e5-5ca8eb57ad2e)
+
+### PROFIT PREDICTION FOR POPULATION OF 70000:
+
+![image](https://github.com/Sachin-vlr/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497666/65385352-b0a4-447c-8503-4903023f9b78)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
